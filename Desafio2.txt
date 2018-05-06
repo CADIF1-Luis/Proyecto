@@ -1,0 +1,28 @@
+Slack
+
+1.- Requerimientos NO funcionales de la plataforma
+  1) Debe ser rapida y estable en conexiones moviles
+  2) Debe usar cierta paleta de colores (blanco y morado)
+  3) Debe tener buen UX (Experiencia de Usuario)
+
+2.- 3 requerimientos funcionales del FrontEnd Web
+  1) Debes autenticarte antes de entrar a un grupo
+  2) Cada grupo de chat puede tener maximo 100 personas
+  3) El usuario debe recibir una invitación para poder unirse a una sala de chat
+
+3.- 3 requerimientos funcionales del FrontEnd Móvil
+  1) El usuario puede hacer login con su cuenta registrada en Slack Web
+  2) El usuario debe tener acceso a los mismos grupos que en Slack Web
+  3) El usuario puede tomar fotos directamente desde la camara de su telefono
+
+4.- 5 requerimientos funcionales que en su opinión debería tener esta palaforma
+  1) Los usuarios pueden registrar cuentas en el sitio
+  2) Los usuarios deben autenticarse para poder comprar productos
+  3) Los usuarios pueden agregar varios productos a un carro de compras
+  4) Los usuarios deben pagar el producto a traves de paypal/stripe antes de recibirlo
+  5) Despues de comprar un producto el usuario recibe un recibo en PDF
+
+5.- 3 requerimientos NO funcionales que en su opinión debería tener esta plataforma
+  1) Debe cargar rapidamente
+  2) Debe tener un diseño responsivo
+  3) Tiene que tener una buena UX (Experiencia de Usuario)

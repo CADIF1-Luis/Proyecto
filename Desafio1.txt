@@ -1,0 +1,17 @@
+1.- Aplicación: Slack (https://slack.com/) 
+    Objetivo: Facilitar la colaboración entre equipos de trabajo mediante el uso de Chat
+
+2 y 3.- 
+    FrontEnd Desktop: 
+        Windows: https://slack.com/downloads/windows
+        Linux: https://slack.com/downloads/linux
+        Mac: https://slack.com/downloads/osx
+    FrontEnd Movil: 
+        Android: https://slack.com/downloads/android
+        IOS: https://slack.com/downloads/ios
+    FrontEnd Web: 
+        Navegadores Web: https://slack.com/get-started
+
+4.- Slack en Navegador Web, Android y IOS: https://www.incimages.com/uploaded_files/image/970x450/slack_74230.png
+
+5.- API Oficial: https://api.slack.com/
